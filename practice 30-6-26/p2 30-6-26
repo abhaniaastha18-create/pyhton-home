@@ -1,0 +1,6 @@
+#python operators
+#arthimetic operators
+num1=10
+num2=3
+print ("addition :",num1 + num2)
+print ("subtraction:",num1 -num2)
