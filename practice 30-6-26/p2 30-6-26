@@ -4,3 +4,4 @@ num1=10
 num2=3
 print ("addition :",num1 + num2)
 print ("subtraction:",num1 -num2)
+print ("multiplication"num1 *num2)
