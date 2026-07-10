@@ -16,11 +16,11 @@ print("personal information")
 
 #data types,variables & operators :
 
-print("details")
-print=(f"name :{name}")
-print=(f"age :{age}")
-print =(f"fav_num :{fav_num}")
-print("details")
+#print("details")
+#print=(f"name :{name}")
+#print=(f"age :{age}")
+#print =(f"fav_num :{fav_num}")
+#print("details")
 
 
 #casting example:
